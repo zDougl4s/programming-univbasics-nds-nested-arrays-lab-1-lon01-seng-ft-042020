@@ -23,12 +23,10 @@ def assembled_matrix
   # Make sure conventional produce is first, on the 'zeroth' / 'bottom' shelf
   list =[
   ORGANIC_PRODUCE = [
-     [ "Strawberries","Potatoes","Grapes"],
-     ["Avocadoes","Asparagus"]
+     [ "Strawberries","Potatoes","Grapes","Avocadoes","Asparagus"],
    ],
   CONVENTIONAL_PRODUCE = [
-    [ "Grapefruit","Pineapple","Oranges",],
-    ["Watermelon","Eggplant"]
+    ["Grapefruit","Pineapple","Oranges","Watermelon","Eggplant"],
    ]
   ]
 
