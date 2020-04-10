@@ -24,7 +24,7 @@ def assembled_matrix
   list =[
     ["Grapefruit","Pineapple","Oranges","Watermelon","Eggplant"]
     ["Strawberries","Potatoes","Grapes","Avocadoes","Asparagus"]
-    
+
   ]
   #list =[
   #ORGANIC_PRODUCE = [
